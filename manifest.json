@@ -1,0 +1,8 @@
+{
+  "name": "買い物合計計算",
+  "short_name": "買い物計算",
+  "display": "standalone",
+  "start_url": "index.html",
+  "background_color": "#ffffff",
+  "theme_color": "#2d3436"
+}
